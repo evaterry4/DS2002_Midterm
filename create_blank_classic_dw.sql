@@ -1,0 +1,1 @@
+CREATE DATABASE `classic_dw`;
